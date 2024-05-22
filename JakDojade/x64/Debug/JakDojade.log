@@ -1,0 +1,7 @@
+﻿  Graph.cpp
+  HashMap.cpp
+  JakDojade.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+Graph.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  JakDojade.vcxproj -> C:\coding\studia\Algorytmy i Struktury Danych\Projekt2\JakDojade\x64\Debug\JakDojade.exe
